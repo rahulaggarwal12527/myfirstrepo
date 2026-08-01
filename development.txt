@@ -1,3 +1,4 @@
 hi i am doing development , 
 now my manager call me, as my work is not done i cannot commit i can save in stash.
 this code also add.
+blablabla bla 
